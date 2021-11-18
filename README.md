@@ -7,6 +7,6 @@ This effort is an initial collaboration between:
 We'd love the community feedback and participation!
 
 This project is currently under development, so check back within a month.
-Try it. File issues. Send us PRs. Contact to be more actively engaged as a collaborator!
+Try it. File issues. Send us PRs. Contact helen@engflow.com to be more actively engaged as a collaborator!
 
 
