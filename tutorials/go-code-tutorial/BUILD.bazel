@@ -16,7 +16,7 @@ gazelle(
 )
 
 go_library(
-    name = "bazel-go-example-code_lib",
+    name = "go-code-tutorial_lib",
     srcs = ["main.go"],
     importpath = "github.com/bazel-contrib/Bazel-learning-paths/tutorials/go-code-tutorial",
     visibility = ["//visibility:private"],
@@ -24,7 +24,7 @@ go_library(
 )
 
 go_binary(
-    name = "bazel-go-example-code",
-    embed = [":bazel-go-example-code_lib"],
+    name = "go-code-tutorial",
+    embed = [":go-code-tutorial_lib"],
     visibility = ["//visibility:public"],
 )
